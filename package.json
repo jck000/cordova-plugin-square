@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-square",
+  "version": "0.1.0",
+  "description": "Cordova Plugin for Square Register SDK",
+  "cordova": {
+    "id": "cordova-plugin-square",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somethingnew2-0/cordova-plugin-square.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Peter Collins",
+  "license": "Apache License Version 2.0",
+  "bugs": {
+    "url": "https://github.com/somethingnew2-0/cordova-plugin-square/issues"
+  },
+  "homepage": "https://github.com/somethingnew2-0/cordova-plugin-square#readme"
+}
